@@ -1,27 +1,142 @@
-## Hi there 👋
+## 🌐 Languages / 言語
 
-<!--
-**a23i219/a23i219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#english">🇺🇸 English</a> •
+  <a href="#日本語">🇯🇵 日本語</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Takuto-2005.Takuto-2005&left_color=gray&right_color=blue" alt="visitor badge"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+---
+
+## English {#english}
+
+### Hi there 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+I'm+Takuto!;A+software+developer+passionate+about+creating+innovative+solutions" alt="Typing SVG" />
+</p>
+
+I'm Takuto, a software developer passionate about creating innovative solutions.
+
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+### 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Takuto-2005?label=Followers&style=social&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Takuto-2005?label=Total%20Stars&style=social&logo=github" alt="GitHub Stars" />
+</p>
+
+### 📊 GitHub Stats
+
+[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- 
+  GitHub Readme Stats (Top Langs & Stats) - Currently commented out
+  To re-enable: Fork https://github.com/anuraghazra/github-readme-stats and deploy to your own Vercel instance
+  Then replace the domain in the URLs below with your own Vercel domain
+  
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takuto-2005&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takuto-2005&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
+-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Takuto-2005&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Takuto-2005&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🐍 Contribution Graph Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 📊 3D Contribution Graph
+
+<!-- 3D Contribution Graph will be generated by GitHub Actions -->
+<img src="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
+
+---
+
+## 日本語 {#日本語}
+
+### こんにちは 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=こんにちは、Takutoです！;革新的なソリューションを作り出すことに情熱を注ぐソフトウェア開発者です" alt="Typing SVG" />
+</p>
+
+Takutoです。革新的なソリューションを作り出すことに情熱を注ぐソフトウェア開発者です。
+
+- 🔭 現在取り組んでいること: ...
+- 🌱 現在学習していること: ...
+- 💬 お気軽にお尋ねください: ...
+- 📫 連絡先: ...
+
+### 🛠️ スキル & 技術
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### 📈 GitHub統計 & アクティビティ
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Takuto-2005?label=フォロワー&style=social&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Takuto-2005?label=総スター数&style=social&logo=github" alt="GitHub Stars" />
+</p>
+
+### 📊 GitHub統計
+
+[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/main/profile-summary-card-output/onedark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- 
+  GitHub Readme Stats (Top Langs & Stats) - 現在コメントアウト中
+  再有効化するには: https://github.com/anuraghazra/github-readme-stats をフォークして自分のVercelインスタンスにデプロイ
+  その後、以下のURLのドメインを自分のVercelドメインに置き換えてください
+  
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takuto-2005&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Takuto-2005&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Takuto-2005&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🐍 コントリビューショングラフ スネーク
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 📊 3Dコントリビューショングラフ
+
+<!-- 3D Contribution Graph will be generated by GitHub Actions -->
+<img src="https://raw.githubusercontent.com/Takuto-2005/Takuto-2005/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
