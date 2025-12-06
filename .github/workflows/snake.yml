@@ -15,6 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          ref: output # 出力用ブランチを直接チェックアウト
+          fetch-depth: 0
           persist-credentials: false
 
       - name: Generate GitHub Contribution Grid Snake
@@ -30,9 +32,9 @@ jobs:
           git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git status
           git add -A
           git commit -m "Generate contribution grid snake" || exit 0
-          git pull origin output --rebase || true
           git push origin HEAD:output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
