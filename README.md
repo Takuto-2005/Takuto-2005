@@ -31,7 +31,7 @@
 
 ## トロフィー
 
-[[![trophy](https://github-profile-trophy-rb4f4akg2-takus-projects-3ca1349f.vercel.app?theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy-rb4f4akg2-takus-projects-3ca1349f.vercel.app/?username=Takuto-2005&theme=onedark&v=2)
+[[![trophy](https://github-profile-trophy-rb4f4akg2-takus-projects-3ca1349f.vercel.app?theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]
 
 ---
 
